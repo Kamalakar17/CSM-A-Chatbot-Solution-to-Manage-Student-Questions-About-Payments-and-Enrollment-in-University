@@ -102,6 +102,24 @@
 <li>Telegram bot sends a response instantly</li>
 </ol>
 
+<h2 style="font-size:34px;">🖼 Screenshots</h2>
+
+<h3 style="font-size:28px;">Home Page – Student Portal</h3>
+<p align="center">
+  <img src="screenshots/home-page.png" alt="CSM Chatbot - Home Page" width="100%">
+</p>
+
+<h3 style="font-size:28px;">Chatbot – Registration & Conversation</h3>
+<p align="center">
+  <img src="screenshots/chat-screen.png" alt="CSM Chatbot - Conversation Screen" width="100%">
+</p>
+
+<h3 style="font-size:28px;">Admin Dashboard – User Management</h3>
+<p align="center">
+  <img src="screenshots/admin-dashboard.png" alt="CSM Chatbot - Admin Dashboard" width="100%">
+</p>
+
+
 <!-- ======================= INSTALLATION ======================= -->
 <h2 style="font-size:34px;">🛠 Installation & Setup</h2>
 
