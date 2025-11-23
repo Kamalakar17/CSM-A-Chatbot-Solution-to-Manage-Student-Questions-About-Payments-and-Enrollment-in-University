@@ -1,0 +1,93 @@
+[2025-09-27 12:23:47] User: pavanibajjuri02@gmail.com
+[2025-09-27 12:23:47] Bot: OTP sent to email.
+
+[2025-09-27 12:39:46] User: pavanibajjuri02@gmail.com
+[2025-09-27 12:39:46] Bot: OTP sent to email.
+
+[2025-09-27 12:40:57] User: Can I enroll online?
+[2025-09-27 12:40:57] Bot: You can enroll via the enrollment section on the portal.
+
+[2025-09-27 12:41:25] User: How do I know if enrollment is successful?
+[2025-09-27 12:41:25] Bot: You can enroll via the enrollment section on the portal.
+
+[2025-09-27 12:49:44] User: Is enrollment mandatory every semester?
+[2025-09-27 12:49:44] Bot: Yes, you must enroll each semester to attend classes.
+
+[2025-09-27 12:49:59] User: Can alumni enroll in courses?
+[2025-09-27 12:49:59] Bot: Alumni can enroll in certain certificate courses.
+
+[2025-09-27 12:50:14] User: Can I enroll for workshops?
+[2025-09-27 12:50:14] Bot: Workshops may require separate enrollment.
+
+[2025-09-27 12:50:37] User: Can I submit documents late?
+[2025-09-27 12:50:37] Bot: Late submission may attract penalties.
+
+[2025-09-27 12:50:49] User: Can I update documents after submission?
+[2025-09-27 12:50:49] Bot: Yes, until deadline.
+
+[2025-09-27 12:51:14] User: Can I pay using mobile wallet?
+[2025-09-27 12:51:14] Bot: Sorry, I don't understand. Please ask another question about your selected topic.
+
+[2025-09-27 12:51:32] User: What if I pay twice by mistake?
+[2025-09-27 12:51:32] Bot: Sorry, I don't understand. Please ask another question about your selected topic.
+
+[2025-09-27 12:51:49] User: Can I pay for multiple semesters at once?
+[2025-09-27 12:51:49] Bot: Sorry, I don't understand. Please ask another question about your selected topic.
+
+[2025-09-27 12:52:09] User: placement
+[2025-09-27 12:52:09] Bot: Sorry, I don't understand. Please ask another question about your selected topic.
+
+[2025-09-27 12:52:19] User: What if I don’t get selected?
+[2025-09-27 12:52:19] Bot: Sorry, I don't understand. Please ask another question about your selected topic.
+
+[2025-09-27 12:52:37] User: Do I need a portfolio for placement?
+[2025-09-27 12:52:37] Bot: Sorry, I don't understand. Please ask another question about your selected topic.
+
+[2025-09-27 12:54:56] User: What if I don’t get selected?
+[2025-09-27 12:54:56] Bot: Sorry, I don't understand. Please ask another question about your selected topic.
+
+[2025-09-27 12:55:07] User: Do I need a portfolio for placement?
+[2025-09-27 12:55:07] Bot: Sorry, I don't understand. Please ask another question about your selected topic.
+
+[2025-09-27 12:55:40] User: Can I pay using mobile wallet?
+[2025-09-27 12:55:40] Bot: Sorry, I don't understand. Please ask another question about your selected topic.
+
+[2025-09-27 12:56:33] User: What if I don’t get selected?
+[2025-09-27 12:56:33] Bot: Sorry, I don't understand. Please ask another question about your selected topic.
+
+[2025-09-27 12:56:56] User: Can I attend off-campus placements?
+[2025-09-27 12:56:56] Bot: Sorry, I don't understand. Please ask another question about your selected topic.
+
+[2025-09-27 12:59:04] User: Can I attend off-campus placements?
+[2025-09-27 12:59:04] Bot: No FAQs found for placements.
+
+[2025-09-27 12:59:27] User: How do I prepare for placements?
+[2025-09-27 12:59:27] Bot: No FAQs found for placements.
+
+[2025-09-27 13:00:19] User: How do I prepare for placements?
+[2025-09-27 13:00:19] Bot: No FAQs found for placements.
+
+[2025-09-27 13:03:56] User: Can I pay for elective courses separately?
+[2025-09-27 13:03:56] Bot: No FAQs found for payments.
+
+[2025-09-27 13:04:17] User: What if enrollment shows an error?
+[2025-09-27 13:04:17] Bot: Report errors to academic support immediately.
+
+[2025-09-27 13:04:36] User: Are scanned copies acceptable?
+[2025-09-27 13:04:36] Bot: Yes, clear scans are acceptable.
+
+[2025-09-27 13:04:54] User: placement
+[2025-09-27 13:04:54] Bot: Use the portal upload section.
+
+[2025-09-27 13:05:06] User: Are placements guaranteed?
+[2025-09-27 13:05:06] Bot: No FAQs found for placements.
+
+[2025-09-27 13:08:04] User: Are placements guaranteed?
+[2025-09-27 13:08:04] Bot: Placements are not guaranteed; they depend on eligibility.
+
+[2025-10-23 11:01:59] User: pavanibajjuri02@gmail.com
+[2025-10-23 11:01:59] Bot: Sorry, I don't understand. Please ask another question about your selected topic.
+
+[2025-10-23 11:02:40] User: hi
+[2025-10-23 11:02:40] Bot: Sorry, I don't understand. Please ask another question about your selected topic.
+

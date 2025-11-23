@@ -1,0 +1,6 @@
+[2025-10-23 11:12:00] User: 238r5a6711@cmrec.ac.in
+[2025-10-23 11:12:00] Bot: OTP sent to email.
+
+[2025-10-23 11:12:52] User: fee structure
+[2025-10-23 11:12:52] Bot: Fee structure is available in the portal.
+

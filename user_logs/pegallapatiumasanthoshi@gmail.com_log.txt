@@ -1,0 +1,15 @@
+[2025-09-27 13:40:43] User: pegallapatiumasanthoshi@gmail.com
+[2025-09-27 13:40:43] Bot: OTP sent to email.
+
+[2025-09-27 13:42:00] User: What if I face technical issues during registration?
+[2025-09-27 13:42:00] Bot: Contact placement office immediately.
+
+[2025-09-27 13:43:00] User: Can I enroll for workshops?
+[2025-09-27 13:43:00] Bot: Workshops may require separate enrollment.
+
+[2025-09-27 13:43:30] User: Can I update documents after submission?
+[2025-09-27 13:43:30] Bot: Yes, until deadline.
+
+[2025-09-27 13:43:50] User: Are hostel fees included in tuition?
+[2025-09-27 13:43:50] Bot: Hostel fees are separate and billed separately.
+

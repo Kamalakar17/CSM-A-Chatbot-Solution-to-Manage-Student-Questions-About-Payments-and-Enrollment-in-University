@@ -1,0 +1,30 @@
+[2025-10-23 18:29:37] User: 228r1a67b9@cmrec.ac.in
+[2025-10-23 18:29:37] Bot: OTP sent to email.
+
+[2025-10-23 18:31:15] User: what are the documents required
+[2025-10-23 18:31:15] Bot: Stored securely in student records.
+
+[2025-10-23 18:31:26] User: help
+[2025-10-23 18:31:26] Bot: Sorry, I don't understand. Please ask another question about your selected topic.
+
+[2025-10-23 18:53:45] User: Payments
+[2025-10-23 18:53:45] Bot: Sorry, I don't understand. Please ask another question about your selected topic.
+
+[2025-10-23 18:54:56] User: how do i submit my documents
+[2025-10-23 18:54:56] Bot: Upload via student portal or submit in person.
+
+[2025-10-23 18:55:22] User: ok thank you
+[2025-10-23 18:55:22] Bot: Sorry, I don't understand. Please ask another question about your selected topic.
+
+[2025-10-24 09:09:54] User: Placements
+[2025-10-24 09:09:54] Bot: Use the portal upload section.
+
+[2025-10-24 09:10:17] User: what documents i need to submit
+[2025-10-24 09:10:17] Bot: ID proof, previous semester marksheets, and payment receipt.
+
+[2025-10-24 09:10:26] User: ok
+[2025-10-24 09:10:26] Bot: Sorry, I don't understand. Please ask another question about your selected topic.
+
+[2025-10-24 10:15:49] User: reddynikitha090@gmail.com
+[2025-10-24 10:15:49] Bot: Sorry, I don't understand. Please ask another question about your selected topic.
+

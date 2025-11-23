@@ -1,0 +1,27 @@
+[2025-10-16 11:36:31] User: koushiksrirambhatla@gmail.com
+[2025-10-16 11:36:31] Bot: OTP sent to email.
+
+[2025-10-16 11:38:18] User: how many members will be placed by the end of this year ?
+[2025-10-16 11:38:18] Bot: Contact the placement office.
+
+[2025-10-16 11:38:39] User: why cant you tell
+[2025-10-16 11:38:39] Bot: Placements are conducted every year, typically in the final semester.
+
+[2025-10-16 11:39:19] User: percentage of me getting placement. give a number
+[2025-10-16 11:39:19] Bot: Leave policies must be coordinated with faculty.
+
+[2025-10-16 11:39:48] User: ?
+[2025-10-16 11:39:48] Bot: Sorry, I don't understand. Please ask another question about your selected topic.
+
+[2025-10-16 11:40:04] User: what are you talking
+[2025-10-16 11:40:04] Bot: Sorry, I don't understand. Please ask another question about your selected topic.
+
+[2025-10-16 11:40:18] User: who are you
+[2025-10-16 11:40:18] Bot: On-campus, online, or off-campus as per company.
+
+[2025-10-16 11:43:17] User: what are the required documents for enrollment
+[2025-10-16 11:43:17] Bot: ID proof, previous semester marksheets, and payment receipt.
+
+[2025-10-16 11:43:30] User: any more
+[2025-10-16 11:43:30] Bot: Sorry, I don't understand. Please ask another question about your selected topic.
+

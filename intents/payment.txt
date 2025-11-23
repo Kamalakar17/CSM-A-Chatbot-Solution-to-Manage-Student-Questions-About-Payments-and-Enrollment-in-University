@@ -1,0 +1,39 @@
+How do I pay my tuition fees? | Payment can be done via the student portal online.
+What payment methods are accepted? | Online payment via credit/debit card, net banking, or UPI.
+Can I pay fees in installments? | Yes, installment options are available for tuition fees.
+What is the deadline for fee payment? | The deadline is typically two weeks before classes start.
+Is late payment allowed? | Late payments may attract a fine.
+How do I get my fee receipt? | Receipts are generated automatically after successful payment.
+Can I pay for multiple semesters at once? | Yes, the portal allows multi-semester payment.
+Do I get confirmation of payment? | Yes, confirmation email is sent after payment.
+What if my payment fails? | Contact finance office immediately.
+Can I pay offline? | Offline payment is possible via bank challan in special cases.
+Are scholarships applied automatically? | Scholarships are deducted automatically during payment.
+Can I pay for elective courses separately? | Yes, elective fees can be paid separately.
+How do I check my fee balance? | Log in to the portal and check the finance section.
+Can I pay using UPI apps? | Yes, UPI apps linked to your bank account are accepted.
+Is there any late fee? | Late fee depends on the duration of delay.
+Can I get a refund? | Refunds are processed according to college policy.
+How do I update my payment details? | Update bank details in the portal settings.
+Who can help with payment issues? | Contact the finance office.
+Can I pay for workshops online? | Yes, workshops have separate online payment.
+Are hostel fees included in tuition? | Hostel fees are separate and billed separately.
+Do I need to pay exam fees separately? | Exam fees are often separate.
+Can I pay using cheque? | Cheque payments may be accepted at finance office.
+What if I pay twice by mistake? | Contact finance office for adjustment.
+Can I pay using international card? | Yes, international cards are accepted.
+How do I get a payment statement? | Download statement from portal finance section.
+Is there a discount for early payment? | Early payment discounts may apply.
+Do I need to pay for lab courses separately? | Lab fees may be separate.
+Can I pay using mobile wallet? | Some mobile wallets are accepted.
+How do I check if payment is successful? | Check confirmation email or portal status.
+What is the fee structure? | Fee structure is available in the portal.
+How do I pay for summer courses? | Summer course fees are paid separately.
+Can I pay with multiple cards? | Partial payments via multiple cards may be allowed.
+Are fines for late payment automatic? | Yes, fines are added automatically.
+Can I pay via bank transfer? | Bank transfer is accepted if details are provided.
+Do I get SMS confirmation? | Some systems may send SMS confirmation.
+How do I correct payment errors? | Report errors to finance office immediately.
+What if my scholarship is not applied? | Contact scholarship office for correction.
+Can alumni pay fees online? | Alumni can pay online for special courses.
+Are workshop fees refundable? | Refund depends on workshop policy.

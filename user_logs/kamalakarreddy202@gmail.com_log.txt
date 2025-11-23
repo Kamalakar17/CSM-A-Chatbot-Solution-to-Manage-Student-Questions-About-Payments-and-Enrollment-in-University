@@ -1,0 +1,9 @@
+[2025-10-16 10:54:57] User: kamalakarreddy202@gmail.com
+[2025-10-16 10:54:57] Bot: OTP sent to email.
+
+[2025-10-16 10:55:58] User: how can i join in this college
+[2025-10-16 10:55:58] Bot: Yes, electives are available during the enrollment process.
+
+[2025-10-16 10:56:16] User: will pandu get job
+[2025-10-16 10:56:16] Bot: Sorry, I don't understand. Please ask another question about your selected topic.
+
