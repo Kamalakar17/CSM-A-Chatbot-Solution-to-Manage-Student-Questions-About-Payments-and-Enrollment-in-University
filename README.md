@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="A_banner-style_digital_illustration_promoting_a_ch.png" alt="CSM Chatbot Banner" width="100%">
+</p>
+
+
 <h1 style="font-size:40px;">🎓 CSM – AI Chatbot for Student Payments & Enrollment Support</h1>
 
 <p>An AI-powered chatbot designed to answer university students’ queries about tuition payments, enrollment procedures, deadlines, scholarships, and more.</p>
