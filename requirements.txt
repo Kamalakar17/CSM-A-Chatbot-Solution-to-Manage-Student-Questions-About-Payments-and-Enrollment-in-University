@@ -4,4 +4,3 @@ flask-mail
 flask-bcrypt
 flask-migrate
 gunicorn
-difflib
