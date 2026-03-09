@@ -22,8 +22,8 @@ app.config['UPLOAD_FOLDER'] = 'uploads'
 app.config['MAIL_SERVER'] = 'smtp.gmail.com'
 app.config['MAIL_PORT'] = 587
 app.config['MAIL_USE_TLS'] = True
-app.config['MAIL_USERNAME'] = os.environ.get("MAIL_USER", "kamalakarreddy202@gmail.com")
-app.config['MAIL_PASSWORD'] = os.environ.get("MAIL_PASS", "uzusahgxuvonjeth")
+app.config['MAIL_USERNAME'] = os.environ.get("MAIL_USER")
+app.config['MAIL_PASSWORD'] = os.environ.get("MAIL_PASS")
 app.config['MAIL_DEFAULT_SENDER'] = app.config['MAIL_USERNAME']
 
 db = SQLAlchemy(app)
