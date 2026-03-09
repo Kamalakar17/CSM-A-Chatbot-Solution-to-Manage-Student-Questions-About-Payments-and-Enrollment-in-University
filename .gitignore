@@ -1,0 +1,7 @@
+__pycache__/
+*.db
+user_logs/
+uploads/
+tempCodeRunnerFile.py
+instance/
+*.pyc
