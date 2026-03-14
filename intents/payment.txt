@@ -37,3 +37,13 @@ How do I correct payment errors? | Report errors to finance office immediately.
 What if my scholarship is not applied? | Contact scholarship office for correction.
 Can alumni pay fees online? | Alumni can pay online for special courses.
 Are workshop fees refundable? | Refund depends on workshop policy.
+How to pay? | Pay online via the student portal using card, UPI, or net banking.
+Payment deadline? | Fees must be paid two weeks before classes start.
+Payment failed? | Contact the finance office immediately if payment fails.
+Fee receipt? | Receipt is generated automatically after successful payment.
+Installments available? | Yes, installment options are available for tuition fees.
+Refund policy? | Refunds are processed according to college policy.
+Late fee? | Yes, a fine is charged for late payments.
+Fee amount? | Log in to the portal and check the finance section for your fee amount.
+UPI accepted? | Yes, UPI apps like GPay and PhonePe are accepted.
+Scholarship applied? | Scholarships are deducted automatically during payment.

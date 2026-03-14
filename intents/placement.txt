@@ -37,3 +37,15 @@ Is mock interview available? | Yes, mock interviews are provided.
 Are placement records maintained? | Placement records are maintained by office.
 What if company cancels drive? | Office will update affected students.
 Can I apply to multiple rounds of same company? | Usually, yes, if allowed.
+How to register? | Register through the placement portal on the college website.
+Placement free? | Yes, placement registration is completely free.
+Resume needed? | Yes, upload your resume on the placement portal.
+Eligible criteria? | Check company-specific criteria listed on the placement portal.
+Placement guaranteed? | No, placements depend on your performance in interviews.
+Interview tips? | Practice aptitude, coding, and communication skills regularly.
+Companies visiting? | Various IT, finance, and consulting companies visit campus.
+Dress code? | Wear formal or business casual attire for interviews.
+Mock interview? | Yes, mock interviews are provided by the placement office.
+Internship available? | Yes, internships are coordinated by the placement cell.
+CGPA required? | Most companies require a minimum of 60% or 6.5 CGPA.
+Off campus? | Yes, off-campus placements are allowed if permitted by institution.

@@ -38,3 +38,12 @@ What if enrollment shows an error? | Report errors to academic support immediate
 Is there an enrollment guide? | Yes, check the online student handbook.
 Do I get a receipt after enrollment? | Yes, a receipt is generated automatically.
 Can I enroll for workshops? | Workshops may require separate enrollment.
+How to enroll? | Log in to the student portal and select your courses.
+Enrollment deadline? | Usually one week before classes begin.
+Enrollment free? | Enrollment is part of your semester registration fees.
+Course limit? | You can enroll in up to 5 or 6 courses per semester.
+Enrollment failed? | Contact the academic office or helpdesk immediately.
+Enrollment confirmation? | A confirmation email is sent after successful enrollment.
+Late enrollment? | Late enrollment requires special department approval.
+Change courses? | Yes, course changes are allowed within the first week.
+Enrollment status? | Check your enrollment status on the student portal.

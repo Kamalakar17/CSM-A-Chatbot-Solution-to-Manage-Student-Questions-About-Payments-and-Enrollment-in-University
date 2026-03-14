@@ -36,3 +36,11 @@ Can I get back my submitted documents? | Originals returned after verification.
 Are digital signatures acceptable? | Digital signatures may be accepted.
 Who can help with document issues? | Contact registrar or student support.
 Is document submission required for fee payment? | Yes, payment may require supporting documents.
+Documents needed? | You need ID proof, marksheets, and payment receipt.
+Upload documents? | Yes, upload via the student portal.
+Document deadline? | Check the portal for the exact submission deadline.
+PDF allowed? | Yes, PDF format is preferred for document submission.
+Document rejected? | Re-upload the correct and clear document before deadline.
+Photo required? | Yes, passport size photograph is required.
+Document status? | Log in to the portal to check your document status.
+Originals needed? | Originals are needed for verification; copies for the portal.
